@@ -28,7 +28,7 @@
 
 1.  克隆本仓库:
     ```bash
-    git clone [https://github.com/soskitty/MP3-File-Sorter.git](https://github.com/soskitty/MP3-File-Sorter.git)
+    git clone https://github.com/soskitty/MP3-File-Sorter.git
     ```
 2.  安装依赖:
     ```bash
