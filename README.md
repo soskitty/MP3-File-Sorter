@@ -36,11 +36,11 @@
     ```
 3.  运行脚本:
     ```bash
-    python MP3_Sorter_final.py
+    python MP3_Sorter.py
     ```
 4.  打包成EXE:
     ```bash
-    pyinstaller --windowed --onefile MP3_Sorter_final.py
+    pyinstaller --windowed --onefile MP3_Sorter.py
     ```
 
 ## 📄 授权协议
